@@ -52,7 +52,7 @@ public class HospitalManagementSystem {
                     case 5:
                         return;
                     default:
-                        System.out.println("Enter valid choice !!!");
+                        System.out.println("Enter the valid choice !!!");
                         break;
                 }
             }

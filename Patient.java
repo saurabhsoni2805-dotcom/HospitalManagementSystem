@@ -29,7 +29,7 @@ public class Patient {
            preparedStatement.setString(3, gender);
            int affectedRows = preparedStatement.executeUpdate();
            if(affectedRows>0){
-               System.out.println("patient added successfully!!");
+               System.out.println("patient added  here successfully!!");
            }
            else{
                System.out.println("failed to add patient!");
