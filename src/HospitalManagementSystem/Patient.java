@@ -1,4 +1,4 @@
-package HostpitalManagementSystem;
+package HospitalManagementSystem;
 import java.util.Scanner;
 import java.sql.ResultSet;
 import java.sql.Connection;
